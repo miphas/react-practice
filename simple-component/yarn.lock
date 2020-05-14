@@ -912,6 +912,14 @@
     globals "^11.1.0"
     lodash "^4.17.13"
 
+"@babel/types@7.8.3":
+  version "7.8.3"
+  resolved "http://r.npm.sankuai.com/@babel/types/download/@babel/types-7.8.3.tgz#5a383dffa5416db1b73dedffd311ffd0788fb31c"
+  dependencies:
+    esutils "^2.0.2"
+    lodash "^4.17.13"
+    to-fast-properties "^2.0.0"
+
 "@babel/types@^7.0.0", "@babel/types@^7.3.0", "@babel/types@^7.4.0", "@babel/types@^7.4.4", "@babel/types@^7.7.0", "@babel/types@^7.8.3", "@babel/types@^7.8.6", "@babel/types@^7.9.0", "@babel/types@^7.9.5", "@babel/types@^7.9.6":
   version "7.9.6"
   resolved "http://r.npm.sankuai.com/@babel/types/download/@babel/types-7.9.6.tgz#2c5502b427251e9de1bd2dff95add646d95cc9f7"
@@ -1972,6 +1980,10 @@ babel-plugin-named-asset-import@^0.3.6:
   version "0.3.6"
   resolved "http://r.npm.sankuai.com/babel-plugin-named-asset-import/download/babel-plugin-named-asset-import-0.3.6.tgz#c9750a1b38d85112c9e166bf3ef7c5dbc605f4be"
 
+babel-plugin-syntax-jsx@6.18.0:
+  version "6.18.0"
+  resolved "http://r.npm.sankuai.com/babel-plugin-syntax-jsx/download/babel-plugin-syntax-jsx-6.18.0.tgz#0af32a9a6e13ca7a3fd5069e62d7b0f58d0d8946"
+
 babel-plugin-syntax-object-rest-spread@^6.8.0:
   version "6.13.0"
   resolved "http://r.npm.sankuai.com/babel-plugin-syntax-object-rest-spread/download/babel-plugin-syntax-object-rest-spread-6.13.0.tgz#fd6536f2bce13836ffa3a5458c4903a597bb3bf5"
@@ -3019,6 +3031,12 @@ cssstyle@^1.0.0, cssstyle@^1.1.1:
 csstype@^2.2.0:
   version "2.6.10"
   resolved "http://r.npm.sankuai.com/csstype/download/csstype-2.6.10.tgz#e63af50e66d7c266edb6b32909cfd0aabe03928b"
+
+customize-cra@^0.9.1:
+  version "0.9.1"
+  resolved "http://r.npm.sankuai.com/customize-cra/download/customize-cra-0.9.1.tgz#76b42c4f537c16329eccc09cfefd804d04c81550"
+  dependencies:
+    lodash.flow "^3.5.0"
 
 cyclist@^1.0.1:
   version "1.0.1"
@@ -5639,6 +5657,10 @@ lodash._reinterpolate@^3.0.0:
   version "3.0.0"
   resolved "http://r.npm.sankuai.com/lodash._reinterpolate/download/lodash._reinterpolate-3.0.0.tgz#0ccf2d89166af03b3663c796538b75ac6e114d9d"
 
+lodash.flow@^3.5.0:
+  version "3.5.0"
+  resolved "http://r.npm.sankuai.com/lodash.flow/download/lodash.flow-3.5.0.tgz#87bf40292b8cf83e4e8ce1a3ae4209e20071675a"
+
 lodash.memoize@^4.1.2:
   version "4.1.2"
   resolved "http://r.npm.sankuai.com/lodash.memoize/download/lodash.memoize-4.1.2.tgz#bcc6c49a42a2840ed997f323eada5ecd182e0bfe"
@@ -7429,6 +7451,12 @@ react-app-polyfill@^1.0.6:
     regenerator-runtime "^0.13.3"
     whatwg-fetch "^3.0.0"
 
+react-app-rewired@^2.1.6:
+  version "2.1.6"
+  resolved "http://r.npm.sankuai.com/react-app-rewired/download/react-app-rewired-2.1.6.tgz#33ee3076a7f34d6a7c94e649cac67e7c8c580de8"
+  dependencies:
+    semver "^5.6.0"
+
 react-dev-utils@^10.2.1:
   version "10.2.1"
   resolved "http://r.npm.sankuai.com/react-dev-utils/download/react-dev-utils-10.2.1.tgz#f6de325ae25fa4d546d09df4bb1befdc6dd19c19"
@@ -8239,6 +8267,10 @@ source-map@0.6.1, source-map@^0.6.0, source-map@^0.6.1, source-map@~0.6.0, sourc
   version "0.6.1"
   resolved "http://r.npm.sankuai.com/source-map/download/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
 
+source-map@0.7.3:
+  version "0.7.3"
+  resolved "http://r.npm.sankuai.com/source-map/download/source-map-0.7.3.tgz#5302f8169031735226544092e64981f751750383"
+
 source-map@^0.5.0, source-map@^0.5.6:
   version "0.5.7"
   resolved "http://r.npm.sankuai.com/source-map/download/source-map-0.5.7.tgz#8a039d2d1021d22d1ea14c80d8ea468ba2ef3fcc"
@@ -8377,6 +8409,10 @@ stream-shift@^1.0.0:
 strict-uri-encode@^1.0.0:
   version "1.1.0"
   resolved "http://r.npm.sankuai.com/strict-uri-encode/download/strict-uri-encode-1.1.0.tgz#279b225df1d582b1f54e65addd4352e18faa0713"
+
+string-hash@1.1.3:
+  version "1.1.3"
+  resolved "http://r.npm.sankuai.com/string-hash/download/string-hash-1.1.3.tgz#e8aafc0ac1855b4666929ed7dd1275df5d6c811b"
 
 string-length@^2.0.0:
   version "2.0.0"
@@ -8540,6 +8576,19 @@ style-loader@0.23.1:
     loader-utils "^1.1.0"
     schema-utils "^1.0.0"
 
+styled-jsx@^3.2.5:
+  version "3.2.5"
+  resolved "http://r.npm.sankuai.com/styled-jsx/download/styled-jsx-3.2.5.tgz#0172a3e13a0d6d8bf09167dcaf32cf7102d932ca"
+  dependencies:
+    "@babel/types" "7.8.3"
+    babel-plugin-syntax-jsx "6.18.0"
+    convert-source-map "1.7.0"
+    loader-utils "1.2.3"
+    source-map "0.7.3"
+    string-hash "1.1.3"
+    stylis "3.5.4"
+    stylis-rule-sheet "0.0.10"
+
 stylehacks@^4.0.0:
   version "4.0.3"
   resolved "http://r.npm.sankuai.com/stylehacks/download/stylehacks-4.0.3.tgz#6718fcaf4d1e07d8a1318690881e8d96726a71d5"
@@ -8547,6 +8596,14 @@ stylehacks@^4.0.0:
     browserslist "^4.0.0"
     postcss "^7.0.0"
     postcss-selector-parser "^3.0.0"
+
+stylis-rule-sheet@0.0.10:
+  version "0.0.10"
+  resolved "http://r.npm.sankuai.com/stylis-rule-sheet/download/stylis-rule-sheet-0.0.10.tgz#44e64a2b076643f4b52e5ff71efc04d8c3c4a430"
+
+stylis@3.5.4:
+  version "3.5.4"
+  resolved "http://r.npm.sankuai.com/stylis/download/stylis-3.5.4.tgz#f665f25f5e299cf3d64654ab949a57c768b73fbe"
 
 supports-color@^2.0.0:
   version "2.0.0"
